@@ -1,4 +1,3 @@
 - Added Config.Police
 - Working On Dispatch
-
-[Discord] : discord.gg/gybpaaN7h8
+Discord - discord.gg/gybpaaN7h8
