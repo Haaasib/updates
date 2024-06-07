@@ -1,4 +1,2 @@
-- Added Config.Police 
-- Added Dispatch Systtem
-- Added Items
+- UI Update
 - [Join Discord] discord.gg/gybpaaN7h8
