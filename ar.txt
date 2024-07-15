@@ -1,2 +1,4 @@
-- Some Issues Fixed Update Your script!!
+- Important Update Your script
+- check the config if you are getting stash issue then make it false 
+- check cfg.lua
 - [Join Discord] discord.gg/gybpaaN7h8
